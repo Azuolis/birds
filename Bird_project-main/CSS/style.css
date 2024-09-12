@@ -1,0 +1,20 @@
+.about-container {
+    background-image: url(../img/vincent-van-zalinge-vUNQaTtZeOo-unsplash.png);
+    height: 60%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about-item1 {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 350px;
+}
+.about-text1 {
+    color: rgb(207, 62, 10);
+    font-size: 25px;
+}
+.about-text2 {
+    font-size: 25px;
+    margin-left: 5px;
+}
